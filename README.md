@@ -1,6 +1,8 @@
 ## 🚀 MySpaceGame 🕹️
 
-    MySpaceGame is a simple space shooter game built using the Pygame library in Python. The player controls a spaceship and must shoot down enemy spaceships while avoiding their attacks. The game gets progressively harder with each level, as more enemies appear and their attacks become faster and more frequent.
+    MySpaceGame is a simple emoji shooter game built using the Pygame library in Python. 
+    The player controls a spaceship 😎 and must shoot down enemy emojis😡 while avoiding their attacks. 
+    The game gets progressively harder with each level, as more enemies appear and their attacks become faster and more frequent.
 
 ### 📋 Requirements
 
@@ -24,7 +26,7 @@
 
 ### 🕹️ Game Screenshots
 
-      ![First Page](https://github.com/Natty4/MySpaceGame/blob/master/assets/Screenshot1.png)
+      ![First Page](assets/Screenshot1.png)
       ![Playing Page](https://github.com/Natty4/MySpaceGame/blob/master/assets/Screenshot2.png)
       ![Game Over](https://github.com/Natty4/MySpaceGame/blob/master/assets/Screenshot3.png)
       
