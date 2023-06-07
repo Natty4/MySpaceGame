@@ -26,7 +26,7 @@
 
 ### 🕹️ Game Screenshots
 
-      ![First Page](assets/Screenshot1.png)
+      ![First Page](https://github.com/Natty4/MySpaceGame/blob/master/assets/Screenshot1.png)
       ![Playing Page](https://github.com/Natty4/MySpaceGame/blob/master/assets/Screenshot2.png)
       ![Game Over](https://github.com/Natty4/MySpaceGame/blob/master/assets/Screenshot3.png)
       
