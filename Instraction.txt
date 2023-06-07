@@ -1,0 +1,22 @@
+MySpaceGame
+
+This is a simple space shooter game built using the Pygame library in Python. The player controls a spaceship and must shoot down enemy spaceships while avoiding their attacks. The game gets progressively harder with each level, as more enemies appear and their attacks become faster and more frequent.
+Requirements
+
+    Python 3.x
+    Pygame library
+
+How to Play
+
+    Use the arrow keys or the 'WASD' keys to move the player's spaceship.
+    Press the space bar to shoot lasers at the enemies.
+    Avoid getting hit by enemy attacks and try to shoot down as many enemies as possible.
+    If the player's health or lives run out, the game is over.
+    Press 'R' to restart the game at any time.
+    Press 'Esc' to exit the game.
+
+Credits
+
+    This game was built using the Pygame library.
+    The code was written by Natnael.
+    The music and sound effects were sourced from "mixkit.co/free-sound-effects".
